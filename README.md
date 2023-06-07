@@ -24,7 +24,7 @@ Here are some ideas to get you started:
 
 <!-- - 👨‍💻 All of my projects are  -->
 
-- 📝 You can connect with me on Linkedin [chetanyadeshmukh](https://www.linkedin.com/in/chetanyadeshmukh-420b1b17)
+- 📝 You can connect with me on Linkedin [chetanyadeshmukh](https://www.linkedin.com/in/chetanyadeshmukh-420b1b17)
 
 
 - 📫 How to reach me **chetanyadeshmukh@gmail.com**
