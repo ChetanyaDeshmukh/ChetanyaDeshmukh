@@ -20,17 +20,13 @@ Here are some ideas to get you started:
 <h3 align="center">I'm aspiring java developer with excellent problem-solving skill and a team player with positive attitude. I am an enthusiastic and social person who loves to take up new challenges and learn new skills. I'am interested in learning new technologies. I m skilled in Java, HTML, CSS, SQL and constantly developing my skills.</h3>
 
 
-<!-- <p align="left"> <img src="https://komarev.com/ghpvc/?username=mansi-deshmukh&label=Profile%20views&color=0e75b6&style=flat" alt="mansi-deshmukh" /> </p> -->
-
 - 🌱 I’m currently learning **Java, SQL**
 
-<!-- - 👨‍💻 All of my projects are available at [Portfolio](https://mansi-deshmukh.github.io/) -->
+<!-- - 👨‍💻 All of my projects are  -->
 
 - 📝 You can connect with me on Linkedin [chetanyadeshmukh](https://www.linkedin.com/in/chetanyadeshmukh-420b1b17)
 
-- 💬 Ask me about **Java, DSA, Algo JavaScript**
 
 - 📫 How to reach me **chetanyadeshmukh@gmail.com**
-
 
 
